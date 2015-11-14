@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fyber</string>
+    <string name="tv_uid_label">UID</string>
+    <string name="tv_uid_hint">UID</string>
+    <string name="tv_api_key_hint">API_KEY</string>
+    <string name="tv_app_id_hint">APP ID</string>
+    <string name="tv_pub0_hint">PUB0</string>
+    <string name="empty_text">No Offers</string>
+    <string name="item_offer_default_title">NO TITLE</string>
+    <string name="item_offer_default_teaser">this is the teaser</string>
+    <string name="item_offer_default_thumbnail_desc">Offer Image</string>
+    <string name="item_offer_default_payout">90</string>
+    <string name="send">Send</string>
+    <string name="a_main_field_err_msg_pre">The following have error:</string>
+    <string name="ok">OK</string>
+    <string name="btn_defaults">Set defaults</string>
+</resources>
