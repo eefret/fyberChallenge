@@ -25,3 +25,11 @@ you will find the Go project source code ready to run, will explain how to below
  just change it to point the proper fyber servers like in the production mode.
 5. Go to `{project_root}/video` folder and check the video also for a functionality check
 6. Hire me for being so cool :).
+
+## Libraries and Frameworks used
+
+* [AndroidAnnotations](http://androidannotations.org/) Killing plumbing and bootstrapping code.
+* [Espresso + Junit4](https://google.github.io/android-testing-support-library/docs/espresso/index.html) Running tests the google way.
+* [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) Handling images like an artist.
+* [Retrofit](http://square.github.io/retrofit/) Doing requests like an architect.
+* [Orhanobut's Logger](https://github.com/orhanobut/logger) I just like the coolness and colors in my Android Monitor xD.
